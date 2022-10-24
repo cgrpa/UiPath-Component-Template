@@ -6,4 +6,4 @@ Includes input argument validation, pre-condition & post-condition checks and er
 
 Use it and adapt it to your needs.
 
-If you make a better one from this one, request to make a branch fromt his on.
+If you make a better one from this one, request to make a branch from this on.
