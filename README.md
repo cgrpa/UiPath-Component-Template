@@ -2,7 +2,7 @@
 
 UiPath component template.
 
-Includes input argument validation, pre-condition & post-condition checks and error handling.
+Includes input argument validation, pre-condition & post-condition checks, error handling & propagation.
 
 Use it and adapt it to your needs.
 
